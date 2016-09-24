@@ -1,5 +1,6 @@
 add-apt-repository -y ppa:webupd8team/sublime-text-3
-sudo add-apt-repository -y ppa:ravefinity-project/ppa
+add-apt-repository -y ppa:ravefinity-project/ppa
+add-apt-repository -y ppa:nilarimogard/webupd8
 add-apt-repository -y ppa:numix/ppa
 add-apt-repository -y ppa:webupd8team/atom
 
