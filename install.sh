@@ -4,6 +4,8 @@ add-apt-repository -y ppa:nilarimogard/webupd8
 add-apt-repository -y ppa:numix/ppa
 add-apt-repository -y ppa:webupd8team/atom
 
+apt update
+
 apt install chromium-browser ambiance-blackout-flat-colors ambiance-flat-colors numix-icon-theme-circle atom traceroute screenfetch pep8 gparted indicator-netspeed unp git gnome-tweak-tool htop pandoc screen sl vim sublime-text-installer dconf-editor pithos texmaker openssh-server
 
 echo "==================================\nRemember to install fonts\n=================================="
